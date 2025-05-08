@@ -72,10 +72,10 @@ export default function HomePage() {
             Wedding Organizer profesional untuk hari pernikahan yang sempurna dan tak terlupakan.
           </p>
           <Link
-            href="/Layanan"
+            href="/Katalog"
             className="inline-block bg-yellow-500 hover:bg-yellow-600 text-white font-semibold px-6 py-3 rounded-full transition"
           >
-            Lihat Layanan Kami
+            Lihat Katalog Kami
           </Link>
         </div>
       </section>

@@ -88,7 +88,7 @@ export default function KontakPage() {
                 referrerPolicy="no-referrer-when-downgrade"
               ></iframe>
             </div>
-            <p className="text-lg text-gray-700 mt-4">Alamat: Jl. Sekolah Dini, No.28, Bandung</p>
+            <p className="text-lg text-gray-700 mt-4">Jl. Dalom Kesuma Ratu Dusun III Desa Sukabanjar Kec. Gedong Tataan Pesawaran</p>
           </div>
         </div>
       </section>
