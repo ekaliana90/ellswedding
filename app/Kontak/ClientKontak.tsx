@@ -82,7 +82,7 @@ export default function KontakPage() {
               {/* Embed Google Map */}
               <iframe
                 className="w-full h-full rounded-xl"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.9348395296447!2d106.7190075!3d-6.3790139!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69cb34bdf7285b%3A0x79ca6fa9917e0435!2sJl.%20Sekolah%20Dini%20No.28%20Bandung!5e0!3m2!1sen!2sid!4v1683037411558!5m2!1sen!2sid"
+                src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3972.4336916456955!2d105.17663967498366!3d-5.350589094628091!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNcKwMjEnMDIuMSJTIDEwNcKwMTAnNDUuMiJF!5e0!3m2!1sid!2sid!4v1746713511683!5m2!1sid!2sid"
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
