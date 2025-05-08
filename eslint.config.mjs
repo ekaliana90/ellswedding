@@ -10,7 +10,15 @@ const compat = new FlatCompat({
 });
 
 const eslintConfig = [
+  // Mengimpor konfigurasi bawaan Next.js
   ...compat.extends("next/core-web-vitals", "next/typescript"),
+
+  // Menambahkan aturan kustom
+  {
+    rules: {
+      "react/no-unescaped-entities": "off", // Nonaktifkan rule
+    },
+  },
 ];
 
 export default eslintConfig;
