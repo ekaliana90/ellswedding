@@ -68,7 +68,7 @@ export default function KatalogPage() {
         <div className="z-10 px-4">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">Katalog Layanan</h1>
           <p className="text-lg md:text-xl text-white mb-6 max-w-2xl mx-auto">
-            Temukan layanan terbaik untuk hari pernikahan impian Anda.
+            Temukan layanan terbaik untuk hari pernikahan mimpi Anda.
           </p>
         </div>
       </section>
